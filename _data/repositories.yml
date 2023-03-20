@@ -1,9 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ADParedes
 
 github_repos:
-  - alshedivat/al-folio
+  - ADParedes/adparedes.github.io
   - twbs/bootstrap
   - jekyll/jekyll
   - jquery/jquery
